@@ -7,7 +7,7 @@ Built by a non-technical founder in an afternoon using Claude. First thing I've 
 ## What it does
 - Accepts requests from people with specific keywords in their bio (founder, VC, Stanford, SRCC etc.)
 - Filters by minimum number of mutual connections
-- One-click button to ignore everything that doesn't match your filters
+- One-click button to ignore everything else AFTER accepting using your filters 
 
 ## How to install
 
@@ -23,6 +23,7 @@ Built by a non-technical founder in an afternoon using Claude. First thing I've 
 - Click the **Mutual Connections** filter on LinkedIn first to narrow down your list
 - Run the extension, scroll down, and run it again until you've gone through everyone
 - Edit the keywords directly in the popup before running
+- Click 'ignore all remaining' button after you have reviewed that there is nothing else left to accept! 
 
 ## Issues?
 DM me on LinkedIn. I'll try to fix it. (I'm the whole support team.)
